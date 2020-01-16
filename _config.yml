@@ -1,1 +1,4 @@
-theme: jekyll-theme-dinky
+# URL
+## If your site is put in a subdirectory, set url as 'http://cnddt.cn' and root as '/cnddt/'
+- url: https://cnddt.github.io/
++ url: https://cnddt.cn/
