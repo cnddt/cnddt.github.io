@@ -1,3 +1,3 @@
-       User-agent: *
-       Allow: /
-       Sitemap:https://www.cnddt.cn/sitemap.xml
+User-agent: *
+Disallow:
+Sitemap:https://www.cnddt.cn/sitemap.xml
